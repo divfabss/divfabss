@@ -1,7 +1,7 @@
 [![Descripción de la imagen](https://imgur.com/EU2tXNM.png)](mailto:fabianutcz@gmail.com)
 
 
-<h1 align="center">Hi👋, I'm Fabian Alvarez</h1>
+<h1 align="center">Hi👋, I'm Fabián Álvarez</h1>
 <h3 align="center">A passionate frontend developer from Costa Rica</h3>
 
 

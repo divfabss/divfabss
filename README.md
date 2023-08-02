@@ -1,4 +1,5 @@
-![Descripción de la imagen](https://imgur.com/a/v3zJJWi)
+![Descripción de la imagen](https://imgur.com/a/v3zJJWi.png)
+
 
 <h1 align="center">Hi👋, I'm Fabian Alvarez</h1>
 <h3 align="center">A passionate frontend developer from Costa Rica</h3>

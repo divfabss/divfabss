@@ -1,4 +1,4 @@
-![Descripción de la imagen](https://imgur.com/sSKUlBG.png)
+![Descripción de la imagen](https://imgur.com/EU2tXNM.png)
 
 
 <h1 align="center">Hi👋, I'm Fabian Alvarez</h1>

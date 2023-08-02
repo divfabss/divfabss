@@ -1,4 +1,4 @@
-[![Descripción de la imagen](https://imgur.com/EU2tXNM.png)](mailto:fabianutcz@gmail.com)
+[![Banner1](https://imgur.com/EU2tXNM.png)](mailto:fabianutcz@gmail.com)
 
 
 <h1 align="center">Hi👋, I'm Fabián Álvarez</h1>

@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **React-Laravel-PHP**
 
-- 👨‍💻 All of my projects are available at: [https://portfoliofabsss.netlify.app](https://portfoliofabsss.netlify.app)
+- 👨‍💻 All of my projects are available at: [https://portfoliofabsss.netlify.app](https://portfoliofabss.netlify.app)
 
 - 📫 How to reach me: **fabianutcz@gmail.com**
 

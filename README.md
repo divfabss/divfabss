@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://portfoliofabsss.netlify.app](https://portfilodivfabss.netlify.app)
+- 👨‍💻 All of my projects are available at [https://portfoliofabsss.netlify.app](https://portafoliopfabss.netlify.app)
 
 - 📝 I regularly write articles on [https://blogfabss.netlify.app](https://blogfabss.netlify.app)
 

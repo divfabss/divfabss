@@ -45,12 +45,8 @@ graph TD;
     Front-End-->JavaScript;
     Front-End-->React;
     Front-End-->Tailwind;
-    Front-End-->JSON;
     Front-End-->SASS;
     Front-End-->Boostrap;
-    Front-End-->Treejs;
-    Front-End-->Figma;
-    Front-End-->Canvas;
     Front-End-->Apis's;
   ```
 <p align="center">

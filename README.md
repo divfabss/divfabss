@@ -4,7 +4,7 @@
 
 <div id="header" align="center">
   <img
-src="https://imgur.com/TbQmrBW"
+src="https://i.imgur.com/TbQmrBW.gif"
     width="full"
   />
   <h3 align="center">

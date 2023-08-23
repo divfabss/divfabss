@@ -70,12 +70,4 @@ graph TD;
 
 <!---------------------------------------------------------------------------------------------------->
 
-<div align="center">
-  <br><p align="centre"><b>Visitors Count 👽 </b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" /></p> 
-  <br>
-</div>
-
-<!---------------------------------------------------------------------------------------------------->
-
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)

@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hola+soy+Fabian;Tengo+17+años+Un+placer;👋+👋;Bienvenidos!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hola+soy+Fabian;Front+End+Dev;👋+👋;Bienvenidos!)
 
 <!---------------------------------------------------------------------------------------------------->
 

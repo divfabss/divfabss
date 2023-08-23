@@ -8,20 +8,18 @@ src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0
     width="full"
   />
   <h3 align="center">
-    ¡Hola, soy Lil Dree! Un apasionado desarrollador de software con sede en
+    ¡Hola, soy Fabian! Un apasionado desarrollador de software con sede en
     Costa Rica. Soy desarrollador Web-Full Stack
   </h3>
 </div>
 <!---------------------------------------------------------------------------------------------------->
 <div align="left">
   <h4 align="left">
-    👨🏾‍💻 Sobre mi: - 📝 Hola soy Alvaro, un placer amigo! 👨🏾‍💻 
+    👨🏾‍💻 Sobre mi: - 📝Hola!, Soy Fabian👨🏾‍💻 
   </h4>
 
-- 💬 Preguntame sobre **React, Css, Threejs, Javascript** 
-- 📫 Como me puedes contactar **alvaroaburto71@gmail.com** 
-- 🌱 Actualmente estoy aprendiendo **MongoDB, Python , Web3 and Solidity** 
-- 🌐 Website [https://lilmiporfolio.netlify.app/](https://lilmiporfolio.netlify.app/)
+- 📫 Como me puedes contactar **fabianutcz@gmail.com** 
+- 🌐 Website [https://portafoliofabsss.netlify.app](https://portafoliofabsss.netlify.app)
 </div>
 <!---------------------------------------------------------------------------------------------------->
 
@@ -34,9 +32,8 @@ src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0
 <!---------------------------------------------------------------------------------------------------->
 
 <p align="center">
-  <br/><br/><a href="https://www.linkedin.com/in/alvaro-aburto-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
-  <a href="https://www.instagram.com/👽/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" /></a>
-  <a href="https://twitter.com/👽" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0A0A0B?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" /></a>
+  <br/><br/><a href="https://www.linkedin.com/in/fabianalvarezz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
+  <a href="https://www.instagram.com/f_alvarez16/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" /></a>
 </p>
 
 <!---------------------------------------------------------------------------------------------------->
@@ -58,46 +55,17 @@ graph TD;
   ```
 <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js">  
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="48" title="Redux.Js">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">      
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="TailWindCss">     
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48" title="Sass">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48">   
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">   
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="48"  title="Vite">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48" title="Netlify">    
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">  
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB">   
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">    
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord">   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">   
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="48" title="StackOverFlow">     
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" width="48" title="ThreeJs">   
-<p/>
-
-<!---------------------------------------------------------------------------------------------------->
-
-```mermaid
-graph TD;
-    Back-End-->NodeJs;
-    NodeJs-->Express;
-    NodeJs-->Deno;
-    NodeJs-->Firabase;
-```
-
-<p align="center">   
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB">  
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase">        
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">     
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs">   
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/04cdbafee8406ab0e9c4e8d449afc78775c9b7e1/icons/ExpressJS-Dark.svg" width="48" title="Express">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/04cdbafee8406ab0e9c4e8d449afc78775c9b7e1/icons/Docker.svg" width="48" title="Docker">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/04cdbafee8406ab0e9c4e8d449afc78775c9b7e1/icons/Prisma.svg" width="48" title="Prisma">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/04cdbafee8406ab0e9c4e8d449afc78775c9b7e1/icons/PostgreSQL-Dark.svg" width="48" title="Postgres">
 <p/>
 
 <!---------------------------------------------------------------------------------------------------->

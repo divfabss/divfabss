@@ -15,7 +15,7 @@ src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0
 <!---------------------------------------------------------------------------------------------------->
 <div align="left">
   <h4 align="left">
-    👨🏾‍💻 Sobre mi: - 📝Hola!, Soy Fabian👨🏾‍💻 
+    📚 Sobre mi: - 📝Hola!, Soy Fabian👋🏻
   </h4>
 
 - 📫 Como me puedes contactar **fabianutcz@gmail.com** 

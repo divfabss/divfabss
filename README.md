@@ -24,9 +24,9 @@ src="https://i.imgur.com/TbQmrBW.gif"
 <!---------------------------------------------------------------------------------------------------->
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tostyxx&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=divfabss&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tostyxx&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divfabss&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 </div> 
 
 <!---------------------------------------------------------------------------------------------------->

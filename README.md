@@ -31,13 +31,6 @@ src="https://i.imgur.com/TbQmrBW.gif"
 
 <!---------------------------------------------------------------------------------------------------->
 
-<p align="center">
-  <br/><br/><a href="https://www.linkedin.com/in/fabianalvarezz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
-  <a href="https://www.instagram.com/f_alvarez16/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" /></a>
-</p>
-
-<!---------------------------------------------------------------------------------------------------->
-
 ```mermaid
 graph TD;
     Front-End-->HTML5;

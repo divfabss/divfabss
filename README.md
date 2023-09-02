@@ -15,7 +15,8 @@ src="https://i.imgur.com/nza2lWX.gif"
 <!---------------------------------------------------------------------------------------------------->
 <div align="center">
   <h4 align="center">
-    📚 Sobre mi: - 📝Hola!, Soy Fabian👋🏻
+    📚 Sobre mi:
+    📝Hola!, Soy Fabian👋🏻
   </h4>
 
 - 📫 Como me puedes contactar **fabianutcz@gmail.com** 

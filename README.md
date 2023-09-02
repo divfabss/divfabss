@@ -1,37 +1,69 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hola+soy+Fabian;Front+End+Dev;👋+👋;Bienvenidos!)
+<!-- Banner -->
+<h1 align="center"><b>Hi , I'm Fabian Alvarez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!---------------------------------------------------------------------------------------------------->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Welcome;Front-End+Dev;💻+💻;divfabss)
 
+<!-- About Me -->
 <div id="header" align="center">
-  <img
-src="https://i.imgur.com/nza2lWX.gif"
-    width="full"
-  />
+  <img src="https://i.imgur.com/nza2lWX.gif" width="full"/>
+  
+  <div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">About Me🤠</h2></summary>
+  </ul>
+  </div>
+  <!-- About Me Information-->
   <h3 align="center">
-    https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif¡Hola, soy Fabian!<br>Un apasionado desarrollador de software con sede en
+    Un apasionado desarrollador de software con sede en
     Costa Rica.<br> Soy desarrollador Web-Front-End
   </h3>
 </div>
-<!---------------------------------------------------------------------------------------------------->
-<div align="center">
-  <h4 align="center">
-    📚 Sobre mi:
-    📝Hola!, Soy Fabian👋🏻
-  </h4>
 
-- 📫 Como me puedes contactar **fabianutcz@gmail.com** 
-- 🌐 Website [https://portafoliofabsss.netlify.app](https://portafoliofabsss.netlify.app)
+<!-- Divider -->
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+<!-- Connect with me -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
 </div>
-<!---------------------------------------------------------------------------------------------------->
 
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/fabianalvarezz/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/f_alvarez16/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://discord.gg/YDwADeCe" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+</p>
+
+<!-- Divider -->
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+
+<!-- Stats -->
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=divfabss&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divfabss&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 </div> 
 
-<!---------------------------------------------------------------------------------------------------->
+<!-- Divider -->
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
+<!-- Languages -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Programming Languages🤠</h2></summary>
+  </ul>
+</div>
+  
+<!-- Mind map -->
 ```mermaid
 graph TD;
     Front-End-->HTML5;
@@ -43,6 +75,8 @@ graph TD;
     Front-End-->Boostrap;
     Front-End-->Apis's;
   ```
+
+<!-- Icons Languages -->
 <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
@@ -57,7 +91,13 @@ graph TD;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord">   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">   
 <p/>
+  
+<!-- Divider -->
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
-<!---------------------------------------------------------------------------------------------------->
-
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<!-- Github Contributions -->
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Game">
+</p>

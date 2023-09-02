@@ -14,8 +14,7 @@
   </div>
   <!-- About Me Information-->
   <h3 align="center">
-    Un apasionado desarrollador de software con sede en
-    Costa Rica.<br> Soy desarrollador Web-Front-End
+    A passionate software developer based in Costa Rica📍<br> I am a Web Front-End developer🧑🏼.
   </h3>
 </div>
 
@@ -59,7 +58,7 @@
 <!-- Languages -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Programming Languages🤠</h2></summary>
+    <summary><h2 style="display: inline-block">Programming Languages🖥️</h2></summary>
   </ul>
 </div>
   
